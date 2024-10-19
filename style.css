@@ -31,7 +31,7 @@ header {
 }
 
 .header__logo {
-  color: white;
+  color: yellow;
 }
 
 @media screen and (min-width: 385px) {
